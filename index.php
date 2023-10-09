@@ -49,7 +49,7 @@
     <div class="card-content">
         <h2>Autentikációs Middleware</h2>
         <p>Remélem elnyeri tetszésüket ez a kis feladat!:)</p>
-        <a href="/feladat.pdf" target="_blank">
+        <a href="/Fejlesztői%20és%20Felhasználói.pdf" target="_blank">
             <button class="btn1">Dokumentáció</button>
         </a>
     </div>
